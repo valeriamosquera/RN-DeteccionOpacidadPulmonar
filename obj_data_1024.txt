@@ -1,0 +1,5 @@
+classes= 1
+train  = /content/drive/My\ Drive/Final_redes/Notebooks/DarkNet-kriyeng-imagenes1024/dataContainer/data/train.txt
+valid  = /content/drive/My\ Drive/Final_redes/Notebooks/DarkNet-kriyeng-imagenes1024/dataContainer/data/validation.txt
+names  = /content/drive/My\ Drive/Final_redes/Notebooks/DarkNet-kriyeng-imagenes1024/dataContainer/data/obj_names.txt
+backup = /content/drive/My\ Drive/Final_redes/Notebooks/DarkNet-kriyeng-imagenes1024/dataContainer/backup/
